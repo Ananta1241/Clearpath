@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040382769112",
+    "project_id": "clearpath-86e66",
+    "storage_bucket": "clearpath-86e66.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040382769112:android:a9cf9bc358d0831b9e24ad",
+        "android_client_info": {
+          "package_name": "com.example.clearpath"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQwl5sSueLyeC9QTC0HC1TFYmH4j-snPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

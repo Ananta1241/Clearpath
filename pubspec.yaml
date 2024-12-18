@@ -1,0 +1,41 @@
+name: clearpath
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  provider: ^6.1.2
+  google_fonts: ^4.0.4
+  cloud_firestore: ^5.4.4
+  image_picker: ^1.1.2
+  html: ^0.15.5
+  webview_flutter: ^4.10.0
+  url_launcher: ^6.3.1
+  google_sign_in: ^5.4.0
+  http: ^0.13.6
+  dialogflow_flutter: ^1.0.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/dialogflow.json
+    - assets/produk_perawatan/sabun_cuci_muka/
+    - assets/produk_perawatan/pelembab/
+    - assets/produk_perawatan/serum/
+    - assets/produk_perawatan/toner/
+
+
